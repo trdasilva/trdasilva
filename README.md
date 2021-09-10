@@ -1,10 +1,7 @@
 ### Hi there 👋<h2> I'm Tomaz</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
-
-
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
@@ -17,7 +14,6 @@
 
 
 <h3>🛠 Tech Stack</h3>
-
 
 - 💻 &nbsp; Android | Kotlin | Java | Dart | Flutter | Swift | Objective-C
 
@@ -51,7 +47,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/tomaz-rocha-da-silva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/tomaz-rocha-da-silva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tomaz%20Silva-blue?style=flat-square&logo=linkedin"></a>
 
 
 </p>
